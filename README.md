@@ -1,65 +1,70 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Shubham%20Utekar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Development&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:38BDF8&height=230&section=header&text=Shubham%20Utekar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Development&descAlignY=60&descAlign=50" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Utekar</h1>
 
 <h3 align="center">
-  AI & Machine Learning Enthusiast | Data Science Learner | Full Stack Developer
+  Developer focused on AI, Machine Learning, Data Science and Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI+Powered+Applications;Exploring+Machine+Learning+and+Data+Science;Creating+Clean+and+Useful+Projects;Learning+by+Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+powered+applications;Working+with+Python,+ML+and+Data+Science;Creating+dashboards+and+developer+tools;Learning,+building+and+improving+every+day" />
 </p>
 
 <p align="center">
   <a href="mailto:shubhamutekar09q@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/Shubham-Ut">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 </p>
+
+<p align="center">
+  <img width="420" src="https://user-images.githubusercontent.com/74038190/212750365-0c162c18-9f2d-44f7-9a15-0f7bfe7bd2e9.gif" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
 ```yaml
 name: Shubham Utekar
-education: B.Tech Computer Science Engineering
+role: Computer Science Engineering Student
 focus: AI, Machine Learning, Data Science, Full Stack Development
-currently_learning: Deep Learning, RAG Applications, Streamlit, Model Deployment
-building: AI apps, ML models, dashboards, and web applications
-goal: To build useful technology solutions with clean design and strong functionality
+currently_learning: Deep Learning, RAG Applications, Streamlit, Deployment
+building: AI apps, ML models, dashboards and web applications
 ```
 
-I enjoy creating projects that combine **data, logic, design, and automation**.  
-My main focus is on building practical applications using **Python, Machine Learning, Streamlit, Flask, and modern web technologies**.
+I like building clean and useful projects that combine **data, logic, design and automation**.  
+My current focus is on creating practical applications using **Python, Machine Learning, Streamlit, Flask and modern web technologies**.
 
 ---
 
-## ✨ What I Like Building
+## 🧠 Developer Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Applications-0F2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-203A43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Dashboards-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Apps-845EC2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Applications-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Data%20Science-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Web%20Apps-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Dashboards-0B1220?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
+  <img src="https://img.shields.io/badge/Automation-0B1220?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -71,13 +76,13 @@ My main focus is on building practical applications using **Python, Machine Lear
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=D00000" />
+  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=38BDF8" />
 </p>
 
 ---
@@ -86,118 +91,118 @@ My main focus is on building practical applications using **Python, Machine Lear
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=AI-Autonomous-Data-Science-App&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=AI-Autonomous-Data-Science-App&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=RAG-Pipeline-Application&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=RAG-Pipeline-Application&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=Predictive-Maintenance-System&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=Predictive-Maintenance-System&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=Data-Analytics-Dashboard&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Ut&repo=Data-Analytics-Dashboard&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" />
   </a>
 </p>
 
 ---
 
-## 📌 Project Focus
+## 📌 Project Areas
 
 <table align="center">
 <tr>
 <td align="center" width="220">
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="65">
 <br><br>
-<b>AI Apps</b>
+<b>AI Applications</b>
 <br>
-<sub>Smart apps using AI and automation</sub>
+<sub>AI-based tools and smart apps</sub>
 </td>
 
 <td align="center" width="220">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65">
 <br><br>
 <b>ML Models</b>
 <br>
-<sub>Prediction, classification and analysis</sub>
+<sub>Prediction and classification systems</sub>
 </td>
 
 <td align="center" width="220">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920322.png" width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920322.png" width="65">
 <br><br>
-<b>Dashboards</b>
+<b>Data Dashboards</b>
 <br>
-<sub>Clean data visualization and insights</sub>
+<sub>Visual insights and analytics</sub>
 </td>
 
 <td align="center" width="220">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="65">
 <br><br>
 <b>Web Apps</b>
 <br>
-<sub>Frontend, backend and database projects</sub>
+<sub>Frontend, backend and database apps</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Ut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Ut&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Ut&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Ut&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌱 Current Learning Path
+## 🧩 Workflow
 
 ```mermaid
-graph LR
-A[Python] --> B[Data Analysis]
-B --> C[Machine Learning]
-C --> D[Deep Learning]
-D --> E[AI Applications]
-E --> F[RAG Systems]
-F --> G[Deployment]
-```
-
----
-
-## ⚙️ Development Flow
-
-```mermaid
-flowchart TD
+flowchart LR
 A[Idea] --> B[Plan]
-B --> C[Design]
-C --> D[Build]
-D --> E[Test]
-E --> F[Improve]
-F --> G[Deploy]
-G --> H[Document]
+B --> C[Build]
+C --> D[Test]
+D --> E[Improve]
+E --> F[Deploy]
+F --> G[Document]
 ```
 
 ---
 
-## 🎯 Current Goals
+## 📊 GitHub Analytics
 
-- Build clean and useful AI-powered projects  
-- Improve machine learning and data science skills  
-- Create interactive dashboards and Streamlit apps  
-- Learn RAG pipelines and LLM-based applications  
-- Improve project structure, UI, and documentation  
-- Deploy projects and maintain a strong GitHub portfolio  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Ut&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Ut&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Ut&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Ut&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-Ut&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham-Ut&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-Ut&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Ut&theme=github_dark&utcOffset=5.5" />
+</p>
+
+---
+
+## 🌱 Currently Improving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Applications-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit%20Apps-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Documentation-111827?style=for-the-badge" />
+</p>
 
 ---
 
@@ -205,24 +210,20 @@ G --> H[Document]
 
 <p align="center">
   <a href="mailto:shubhamutekar09q@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://github.com/Shubham-Ut">
-    <img src="https://img.shields.io/badge/GitHub-Shubham--Ut-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Ut&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 </p>
 
 <p align="center">
@@ -230,5 +231,9 @@ G --> H[Document]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Ut&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A5F,100:0B1220&height=120&section=footer" />
 </p>
